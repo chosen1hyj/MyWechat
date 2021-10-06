@@ -1,0 +1,44 @@
+{
+  "id": "2847353",
+  "name": "mywechat",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12600749",
+      "name": "java",
+      "font_class": "java",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "1166009",
+      "name": "我的",
+      "font_class": "iconfontzhizuobiaozhun023104",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "3929125",
+      "name": "通讯录",
+      "font_class": "tongxunlu",
+      "unicode": "e8fb",
+      "unicode_decimal": 59643
+    },
+    {
+      "icon_id": "12103044",
+      "name": "指南针",
+      "font_class": "zhinanzhen",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "77151",
+      "name": "朋友圈",
+      "font_class": "pengyouquan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

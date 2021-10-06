@@ -1,0 +1,17 @@
+com\hyj\mapper\UsersMapper.class
+com\hyj\netty\websocket\ChatHandler.class
+com\hyj\utils\MyMapper.class
+com\hyj\mapper\ChatMsgMapper.class
+com\hyj\netty\websocket\WSServer$SingletionWSServer.class
+com\hyj\pojo\Users.class
+com\hyj\mapper\MyFriendsMapper.class
+com\hyj\pojo\ChatMsg.class
+com\hyj\controller\HelloController.class
+com\hyj\NettyBooter.class
+com\hyj\mapper\FriendsRequestMapper.class
+com\hyj\pojo\FriendsRequest.class
+com\hyj\pojo\MyFriends.class
+com\hyj\Application.class
+com\hyj\mybatis\utils\GeneratorDisplay.class
+com\hyj\netty\websocket\WSServerInitializer.class
+com\hyj\netty\websocket\WSServer.class
