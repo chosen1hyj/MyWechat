@@ -22,7 +22,7 @@ import java.util.List;
  * @description处理消息的handler
  * TextWebSocketFrame:在netty中，是用于为websocket专门处理文本的对象，frame是消息的载体
  * @author: Chosen1
- * @date: 2021/10/2 13:54
+ * @date: 2020/04/2 13:54
  */
 public class ChatHandler extends SimpleChannelInboundHandler<TextWebSocketFrame> {
 

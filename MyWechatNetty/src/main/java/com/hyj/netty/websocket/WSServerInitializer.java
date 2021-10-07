@@ -12,7 +12,7 @@ import io.netty.handler.timeout.IdleStateHandler;
 /**
  * @description:
  * @author: Chosen1
- * @date: 2021/10/1 22:19
+ * @date: 2020/04/1 22:19
  */
 public class WSServerInitializer extends ChannelInitializer<SocketChannel> {
     @Override
