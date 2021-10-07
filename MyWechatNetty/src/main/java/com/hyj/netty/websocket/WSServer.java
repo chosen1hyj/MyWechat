@@ -17,12 +17,12 @@ import org.springframework.stereotype.Component;
 public class WSServer {
 
 
-    private static class SingletionWSServer{
+    private static class SingletonWSServer{
         static final WSServer instance = new WSServer();
     }
 
     public static WSServer getInstance(){
-        return SingletionWSServer.instance;
+        return SingletonWSServer.instance;
     }
 
     private EventLoopGroup mainGroup;
